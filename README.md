@@ -22,5 +22,5 @@ Expanding my portfolio with hands-on, impactful data projects
 ---
 ```
 Tools & Technologies
-Python | Pandas | NumPy | Matplotlib | Scikit-learn | SQL | Jupyter | Git | Tableau
+Python | Java | javascript | HTML5 | CSS | SQL | C | C++ | Git 
 ```
